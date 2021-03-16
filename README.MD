@@ -1,3 +1,10 @@
+* requis:
+
+     - installation apache
+       
+        $ sudo apt install apache2
+
+
 Cloner le répertoire distant:
 
     $ git clone https://github.com/GregLebreton/apache-config.git
