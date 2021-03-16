@@ -29,7 +29,7 @@ Configuration du VirtualHost:
                 ServerAdmin greg@legaragenumerique
                 ServerName www.site1.com
                 ServerAlias site1.com
-                DocumentRoot /var/www/html/site1/
+                DocumentRoot /var/www/html/monsite/
 
 
                 <Directory />
@@ -37,7 +37,7 @@ Configuration du VirtualHost:
                         Options -Indexes -Includes -ExecCGI -FollowSymlinks
                 </Directory>
 
-                <Directory /var/www/html/site1/>
+                <Directory /var/www/html/monsite/>
                         Require all granted
                         Options -Indexes -Includes -ExecCGI +FollowSymlinks
                 </Directory>
