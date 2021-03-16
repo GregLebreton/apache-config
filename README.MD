@@ -27,8 +27,8 @@ Configuration du VirtualHost:
 
         <VirtualHost *:80>
                 ServerAdmin greg@legaragenumerique
-                ServerName www.site1.com
-                ServerAlias site1.com
+                ServerName www.monsite.com
+                ServerAlias monsite.com
                 DocumentRoot /var/www/html/monsite/
 
 
