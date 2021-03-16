@@ -11,7 +11,7 @@ Cloner le répertoire distant:
 
 Copie du site dans le répertoire racine d'apache:
 
-    $ cp -R site/ /var/www/html
+    $ cp -R monsite/ /var/www/html
 
 
 
