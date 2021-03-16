@@ -63,5 +63,5 @@ Redémarrage de apache et du réseau de la machine:
     $ systemctl restart networking
 
 
-Ouvrir son navigateur à l'adresse www.site1.com
+Ouvrir son navigateur à l'adresse www.monsite.com
 
