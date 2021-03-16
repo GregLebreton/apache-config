@@ -1,4 +1,4 @@
-* requis:
+requis:
 
      - installation apache
        
